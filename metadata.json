@@ -1,0 +1,6 @@
+{
+  "name": "EstimaBI — Analítica Predictiva y Regresión Lineal",
+  "description": "Plataforma profesional de Business Intelligence para análisis exploratorio, modelado de Regresión Lineal Simple y Múltiple, validación de supuestos estadísticos y generación de informes ejecutivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
